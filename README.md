@@ -9,7 +9,6 @@ Table of Contents
 6. Development Tools
 7. Challenges and Workarounds
 8. Conclusion
-9. References
 
 Overview
 The VSDSquadron Mini is a compact and user-friendly RISC-V development board. It is designed for embedded systems enthusiasts, developers, and students aiming to explore and innovate with the open-source RISC-V architecture. With its lightweight design and built-in peripherals, this board is ideal for various projects, including IoT, prototyping, and educational purposes.
@@ -48,59 +47,25 @@ Set up your environment (e.g., VS Code or any preferred IDE).
 
 Install debugging tools like OpenOCD for testing and validation.
 
-
-3. Example Code
-
-Write a basic program, such as blinking an LED using GPIO pins.
-
-Compile and upload the code to the board.
-
-Use debugging tools to monitor performance and functionality.
-
-
-
----
-
 Development Tools
 
 1. Compilers:
-
 RISC-V GCC
-
 LLVM
 
-
-
 2. Debugging and Testing:
-
 OpenOCD
-
 GDB
 
-
-
 3. Simulators:
-
 Spike
-
 QEMU
 
-
-
 4. Integrated Development Environments (IDE):
-
 VS Code with RISC-V extensions.
-
 Eclipse for Embedded C/C++ development.
 
-
-
-
-
----
-
 Challenges and Workarounds
-
 Learning Curve: Beginners might find RISC-V tools and workflows unfamiliar.
 Solution: Start with simple projects and follow tutorials provided by the RISC-V community.
 
@@ -110,27 +75,8 @@ Solution: Utilize simulators like Spike or QEMU before testing on hardware.
 Limited Documentation: Resources for specific microcontrollers may be sparse.
 Solution: Leverage community forums, official documentation, and open-source examples.
 
-
-
----
-
 Conclusion
 
 The VSDSquadron Mini is a robust and affordable platform for exploring the RISC-V architecture. Its compact size, powerful features, and ease of use make it an ideal choice for both beginners and professionals. Whether you're building an IoT device, learning embedded programming, or prototyping a new design, the VSDSquadron Mini has you covered.
 
 
----
-
-References
-
-Official VSDSquadron Mini Page
-
-RISC-V Foundation
-
-CH32V003F4U6 Datasheet
-
-
-
----
-
-This README is completely rewritten and organized for better originality while maintaining accuracy and relevance. You can directly use it for your GitHub repository and further customize it as needed.
