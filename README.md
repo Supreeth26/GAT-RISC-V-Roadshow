@@ -10,11 +10,11 @@ Table of Contents
 7. Challenges and Workarounds
 8. Conclusion
 
-1. Overview
+Overview
 
 The VSDSquadron Mini is a compact and user-friendly RISC-V development board. It is designed for embedded systems enthusiasts, developers, and students aiming to explore and innovate with the open-source RISC-V architecture. With its lightweight design and built-in peripherals, this board is ideal for various projects, including IoT, prototyping, and educational purposes.
 
-2. Key Features
+Key Features
 
 Processor: Built around the CH32V003F4U6 microcontroller, which features a 32-bit RISC-V core.
 Memory: Includes 2 KB SRAM for runtime data, 16 KB Flash for program storage, and a bootloader memory for efficient debugging.
@@ -23,9 +23,9 @@ GPIO: Equipped with 15 general-purpose input/output pins, offering flexibility f
 Power Efficiency: Operates on a 3.3V I/O voltage, ensuring low power consumption.
 Integrated Programmer: Features a single-wire programming protocol for seamless development without the need for additional adapters.
 
-3. Specifications
+Specifications
 
-4. Applications
+Applications
 
 The VSDSquadron Mini has a wide range of use cases, including:
 1. Learning and Education: A great tool for understanding the RISC-V architecture and embedded systems development.
@@ -33,7 +33,7 @@ The VSDSquadron Mini has a wide range of use cases, including:
 3. Peripheral Integration: Perfect for integrating sensors, actuators, and communication modules.
 4. Embedded System Projects: Suitable for building and testing small-scale embedded applications.
 
-5. Getting Started
+Getting Started
 
 1. Hardware Setup
 
@@ -49,7 +49,7 @@ Set up your environment (e.g., VS Code or any preferred IDE).
 
 Install debugging tools like OpenOCD for testing and validation.
 
-6. Development Tools
+Development Tools
 
 1. Compilers:
 RISC-V GCC
@@ -67,7 +67,7 @@ QEMU
 VS Code with RISC-V extensions.
 Eclipse for Embedded C/C++ development.
 
-7. Challenges and Workarounds
+Challenges and Workarounds
 Learning Curve: Beginners might find RISC-V tools and workflows unfamiliar.
 Solution: Start with simple projects and follow tutorials provided by the RISC-V community.
 
@@ -77,7 +77,7 @@ Solution: Utilize simulators like Spike or QEMU before testing on hardware.
 Limited Documentation: Resources for specific microcontrollers may be sparse.
 Solution: Leverage community forums, official documentation, and open-source examples.
 
-8. Conclusion
+Conclusion
 
 The VSDSquadron Mini is a robust and affordable platform for exploring the RISC-V architecture. Its compact size, powerful features, and ease of use make it an ideal choice for both beginners and professionals. Whether you're building an IoT device, learning embedded programming, or prototyping a new design, the VSDSquadron Mini has you covered.
 
